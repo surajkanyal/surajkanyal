@@ -3,7 +3,7 @@
 My name is Suraj Singh, and I'm a passionate data science and AI enthusiast. I thrive on diving into complex datasets 📈, uncovering insights 💡, and visualizing compelling data stories 📊. From data analysis 🔍 to advanced training techniques 🧠, I love exploring the expansive world of data science. Join me on this exciting data-driven journey! 🚀✨
 
 <!-- <img src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif" width="300" alt="GIF image"> -->
-<iframe src="https://giphy.com/embed/HyJfZ5JCM7MaKfd4el" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+![Male working on laptop](https://media.giphy.com/media/HyJfZ5JCM7MaKfd4el/giphy.gif)
 
 🔭 I’m currently working on Breast cancer detection using mamograms
 
